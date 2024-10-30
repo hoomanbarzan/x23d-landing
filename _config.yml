@@ -23,7 +23,7 @@ email: hooman.esfandiari@balgrist.ch
 description: >- # this means to ignore newlines until "baseurl:"
   X23D AG.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://x23d.github.io  # the base hostname & protocol for your site, e.g. http://example.com
+url: https://hoomanbarzan.github.io/x23d-landing/  # the base hostname & protocol for your site, e.g. http://example.com
 domain: x23d.github.io  
 twitter_username: x23d
 github_username:  x23d
