@@ -4,7 +4,7 @@ title: "X23D AG®"
 ---
 <div class="outer-container">
     <div class="inner-container">
-        <img src= "/assets/images/logo.png", alt="X23D AG" >
+        <img src="/assets/images/logo.png" alt="X23D AG" >
         <p> Surgical guidance reimagined, accurate whilst simple!</p>
         <p id="animated-text"></p>
     </div>
