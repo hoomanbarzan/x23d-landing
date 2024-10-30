@@ -24,12 +24,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   X23D AG.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://hoomanbarzan.github.io/x23d-landing/  # the base hostname & protocol for your site, e.g. http://example.com
-domain: x23d.github.io  
+domain:  
 twitter_username: x23d
 github_username:  x23d
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
